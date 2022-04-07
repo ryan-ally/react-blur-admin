@@ -61,6 +61,6 @@
     "react-dom": "^16.5.0",
     "sinon": "^1.17.4",
     "uglifyjs": "^2.4.10",
-    "webpack": "^2.2.0"
+    "webpack": "^4.0.0"
   }
 }
