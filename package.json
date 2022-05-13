@@ -55,12 +55,12 @@
     "jsdom": "^9.4.1",
     "mocha": "^6.2.3",
     "mocha-sinon": "^1.1.5",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.1",
     "react": "^16.5.0",
     "react-addons-test-utils": "^15.1.0",
     "react-dom": "^16.5.0",
     "sinon": "^1.17.4",
     "uglifyjs": "^2.4.10",
-    "webpack": "^2.2.0"
+    "webpack": "^4.0.0"
   }
 }
